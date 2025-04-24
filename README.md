@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Developer</h1>
+<h1 align="center">Hi 👋, I'm Christian Jr. De Jesus</h1>
 <p align="center">
   Passionate about building scalable, clean, and efficient software solutions.
 </p>
